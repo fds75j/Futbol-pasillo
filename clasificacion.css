@@ -1,0 +1,27 @@
+body {
+    background-image: url("fondofutbol2.png");
+}
+
+button {
+    background-color: black;
+    color: white;
+    margin-left: 0;
+    font-size: 25px;
+}
+
+h2 {
+    color: blue;
+    background-color: yellow;
+    text-align: left;
+}
+
+p {
+    color: white; /*esto me da color al párrafo*/
+    background: black;
+    text-align: left;
+    text-shadow: midnightblue;
+    font-size: 35px;
+    font-family: "Arial Black", Gadget, sans-serif;
+    
+}
+

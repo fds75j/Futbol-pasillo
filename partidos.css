@@ -1,0 +1,32 @@
+body {
+    background-image: url("partidos.png");
+}
+
+button {
+    background-color: black;
+    color: white;
+    margin-left: 0;
+    font-size: 25px;
+}
+
+
+h3 {
+    color: white;
+    text-align: center;
+    background-color: red;
+    font-size: 30px;
+    font-family: "Arial Black", Gadget, sans-serif;
+    text-shadow: 2px 2px 4px #000000;
+    text-decoration: underline;
+    text-decoration-color: yellow;
+    text-decoration-thickness: 2px;
+    text-decoration-style: ridge;
+}
+
+p {
+    color: white; /*esto me da color al párrafo*/
+    text-align: center;
+    font-size: 30px;
+    font-family: "Arial Black", Gadget, sans-serif;
+    text-shadow: 4px 4px 4px #000000;
+}

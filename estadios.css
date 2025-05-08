@@ -1,0 +1,34 @@
+body {
+    background-image: url("estadios.png");
+}
+
+    h1 {
+        color: white;
+        text-align: center;
+        background-color: red;
+        font-size: 75px;
+        font-family: "Arial Black", Gadget, sans-serif;
+        text-shadow: 2px 2px 4px #000000;
+        text-decoration: underline;
+        text-decoration-color: yellow;
+        text-decoration-thickness: 2px;
+        text-decoration-style: ridge;
+    }
+
+    .button {
+        background-color: black;
+        color: white;
+        margin-left: 0;
+        font-size: 25px;
+    }
+
+    p {
+        color: white; /*esto me da color al párrafo*/
+        text-align: center;
+        background-color: blue;
+        font-size: 25px;
+        font-family: "Arial Black", Gadget, sans-serif;
+        text-shadow: 2px 2px 4px #000000;
+    }
+
+    
